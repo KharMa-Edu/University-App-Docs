@@ -1,6 +1,6 @@
 ## Design
 [University App(UserFlow, Wireframes(low,high), UX\UI, Design System via Material3)](https://www.figma.com/design/4oaraBMb1Cox7xEsbfEWxC/University-App?node-id=0-1&t=6WuHtslwAh3BGHW9-1)
-## Project
+## Github Project
 Список усіх "сирих" ідей, після опрацювання важливі записуються у беклог продукту
 - [Hypothesis Backlog(live)](./Hypothesis%20Backlog.md)
 - [University App(Road Map, Product/Sprint Backlog)](https://github.com/orgs/KharMa-Edu/projects/2)
